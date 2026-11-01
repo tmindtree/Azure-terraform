@@ -1,0 +1,5 @@
+subscription_id        = "5929e153-3d43-4bd5-903c-2fb913f3f7e9"
+resource_group_name    = "rg-webapp-dev"
+location               = "Central India"
+app_service_plan_name  = "asp-webapp-dev"
+webapp_name            = "datarobot-dev-001"
